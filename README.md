@@ -1,2 +1,2 @@
 # archives
-Archives of old code source files and projects
+Archives of old code source files and projects.

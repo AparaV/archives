@@ -1,0 +1,16 @@
+﻿Build started 11/24/2015 10:27:11 AM.
+     1>Project "C:\Projects\C Language\Practice\stacks\stacks\stacks.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\stacks.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stacks.cpp
+         stacks.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\C Language\Practice\stacks\Debug\stacks.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Projects\C Language\Practice\stacks\Debug\stacks.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Projects\C Language\Practice\stacks\Debug\stacks.lib" /MACHINE:X86 Debug\stacks.obj
+         Debug\stdafx.obj
+     1>stacks.obj : error LNK2019: unresolved external symbol "void __cdecl push(int,struct stack *)" (?push@@YAXHPAUstack@@@Z) referenced in function _main
+     1>stacks.obj : error LNK2019: unresolved external symbol "void __cdecl pop(struct stack *)" (?pop@@YAXPAUstack@@@Z) referenced in function _main
+     1>C:\Projects\C Language\Practice\stacks\Debug\stacks.exe : fatal error LNK1120: 2 unresolved externals
+     1>Done Building Project "C:\Projects\C Language\Practice\stacks\stacks\stacks.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.31

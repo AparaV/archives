@@ -1,0 +1,19 @@
+﻿Build started 8/2/2016 11:06:35 AM.
+     1>Project "C:\Projects\C++\Templates\Templates.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Templates.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Templates.cpp
+         Templates.cpp
+     1>c:\projects\c++\templates\templates.cpp(11): error C2440: 'const_cast': cannot convert from 'const int' to 'int'
+         c:\projects\c++\templates\templates.cpp(11): note: Conversion is a valid standard conversion, which can be performed implicitly or by use of static_cast, C-style cast or function-style cast
+         c:\projects\c++\templates\templates.cpp(20): note: see reference to function template instantiation 'void all_ones<int>(const T [],int)' being compiled
+                 with
+                 [
+                     T=int
+                 ]
+     1>c:\projects\c++\templates\templates.cpp(12): error C2440: 'const_cast': cannot convert from 'const int' to 'int'
+         c:\projects\c++\templates\templates.cpp(12): note: Conversion is a valid standard conversion, which can be performed implicitly or by use of static_cast, C-style cast or function-style cast
+     1>Done Building Project "C:\Projects\C++\Templates\Templates.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.44

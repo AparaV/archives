@@ -1,0 +1,13 @@
+﻿Build started 9/29/2015 12:46:25 PM.
+     1>Project "C:\Projects\C Language\Matrix Multiplication using pointers\Matrix Multiplication using pointers\Matrix Multiplication using pointers.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Matrix Multiplication using pointers.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Matrix Multiplication using pointers.cpp"
+         Matrix Multiplication using pointers.cpp
+     1>c:\projects\c language\matrix multiplication using pointers\matrix multiplication using pointers\matrix multiplication using pointers.cpp(15): error C3861: 'malloc': identifier not found
+     1>c:\projects\c language\matrix multiplication using pointers\matrix multiplication using pointers\matrix multiplication using pointers.cpp(25): error C2109: subscript requires array or pointer type
+     1>c:\projects\c language\matrix multiplication using pointers\matrix multiplication using pointers\matrix multiplication using pointers.cpp(38): error C2109: subscript requires array or pointer type
+     1>Done Building Project "C:\Projects\C Language\Matrix Multiplication using pointers\Matrix Multiplication using pointers\Matrix Multiplication using pointers.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.43

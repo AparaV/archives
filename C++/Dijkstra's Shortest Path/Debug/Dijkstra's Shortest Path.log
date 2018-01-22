@@ -1,0 +1,14 @@
+﻿Build started 8/4/2016 4:22:13 PM.
+     1>Project "C:\Projects\C++\Dijkstra's Shortest Path\Dijkstra's Shortest Path.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Dijkstra's Shortest Path.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "..\Dijkstra's Shortest Path\Dijkstra's Shortest Path.cpp"
+         Dijkstra's Shortest Path.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\C++\Dijkstra's Shortest Path\Debug\Dijkstra's Shortest Path.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Projects\C++\Dijkstra's Shortest Path\Debug\Dijkstra's Shortest Path.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Projects\C++\Dijkstra's Shortest Path\Debug\Dijkstra's Shortest Path.lib" /MACHINE:X86 "Debug\Dijkstra's Shortest Path.obj"
+         Debug\stdafx.obj
+         Dijkstra's Shortest Path.vcxproj -> C:\Projects\C++\Dijkstra's Shortest Path\Debug\Dijkstra's Shortest Path.exe
+     1>Done Building Project "C:\Projects\C++\Dijkstra's Shortest Path\Dijkstra's Shortest Path.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.37

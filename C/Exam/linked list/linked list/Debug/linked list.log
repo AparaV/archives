@@ -1,0 +1,13 @@
+﻿Build started 12/1/2015 3:55:15 PM.
+     1>Project "C:\Projects\C Language\Exam\linked list\linked list\linked list.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\linked list.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "linked list.cpp"
+         linked list.cpp
+     1>c:\projects\c language\exam\linked list\linked list\linked list.cpp(19): warning C4101: 'c': unreferenced local variable
+     1>c:\projects\c language\exam\linked list\linked list\linked list.cpp(19): warning C4101: 'd': unreferenced local variable
+     1>c:\projects\c language\exam\linked list\linked list\linked list.cpp(21): error C4700: uninitialized local variable 'b' used
+     1>Done Building Project "C:\Projects\C Language\Exam\linked list\linked list\linked list.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17

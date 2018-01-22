@@ -1,0 +1,14 @@
+﻿Build started 11/23/2015 5:43:28 PM.
+     1>Project "C:\Projects\C Language\Practice\binary search\binary search\binary search.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\binary search.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS "binary search.cpp"
+         binary search.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Projects\C Language\Practice\binary search\Debug\binary search.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Projects\C Language\Practice\binary search\Debug\binary search.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Projects\C Language\Practice\binary search\Debug\binary search.lib" /MACHINE:X86 "Debug\binary search.obj"
+         Debug\stdafx.obj
+         binary search.vcxproj -> C:\Projects\C Language\Practice\binary search\Debug\binary search.exe
+     1>Done Building Project "C:\Projects\C Language\Practice\binary search\binary search\binary search.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

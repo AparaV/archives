@@ -1,0 +1,14 @@
+﻿Build started 9/25/2015 6:39:03 PM.
+     1>Project "C:\Projects\C Language\Cricket Game\Cricket Game\Cricket Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Cricket Game.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Cricket Game.cpp"
+         Cricket Game.cpp
+     1>c:\projects\c language\cricket game\cricket game\cricket game.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\projects\c language\cricket game\cricket game\cricket game.cpp(14): error C2296: '%': illegal, left operand has type 'void'
+     1>c:\projects\c language\cricket game\cricket game\cricket game.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\projects\c language\cricket game\cricket game\cricket game.cpp(36): error C2296: '%': illegal, left operand has type 'void'
+     1>Done Building Project "C:\Projects\C Language\Cricket Game\Cricket Game\Cricket Game.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16
